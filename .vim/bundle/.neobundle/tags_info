@@ -1,0 +1,7 @@
+emmet-vim
+neobundle.vim
+neocomplcache.vim
+nerdtree
+vim-autoclose
+vim-endwise
+vim-rails
